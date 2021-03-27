@@ -1,6 +1,1 @@
-
-
-
-Howdy, boy.
-
-
+Hello, World!
